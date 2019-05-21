@@ -4,3 +4,7 @@ body {
     width: 960px;
     font-size: 18px;
 }
+
+header {
+    color: blue;
+}
